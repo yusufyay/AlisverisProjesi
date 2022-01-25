@@ -1,0 +1,11 @@
+C:\Users\yy\source\repos\AlisverisProjesi\bin\Debug\AlisverisProjesi.exe.config
+C:\Users\yy\source\repos\AlisverisProjesi\bin\Debug\AlisverisProjesi.exe
+C:\Users\yy\source\repos\AlisverisProjesi\bin\Debug\AlisverisProjesi.pdb
+C:\Users\yy\source\repos\AlisverisProjesi\obj\Debug\AlisverisProjesi.csproj.AssemblyReference.cache
+C:\Users\yy\source\repos\AlisverisProjesi\obj\Debug\AlisverisProjesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\yy\source\repos\AlisverisProjesi\obj\Debug\AlisverisProjesi.Form1.resources
+C:\Users\yy\source\repos\AlisverisProjesi\obj\Debug\AlisverisProjesi.Properties.Resources.resources
+C:\Users\yy\source\repos\AlisverisProjesi\obj\Debug\AlisverisProjesi.csproj.GenerateResource.cache
+C:\Users\yy\source\repos\AlisverisProjesi\obj\Debug\AlisverisProjesi.csproj.CoreCompileInputs.cache
+C:\Users\yy\source\repos\AlisverisProjesi\obj\Debug\AlisverisProjesi.exe
+C:\Users\yy\source\repos\AlisverisProjesi\obj\Debug\AlisverisProjesi.pdb
