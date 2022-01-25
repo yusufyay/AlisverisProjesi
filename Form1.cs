@@ -50,6 +50,8 @@ namespace AlisverisProjesi
                 textBoxmiktardeger.Text="0";
             }
 
+
+
             float secilentutar = float.Parse(textBoxfiyatdeger .Text) * float.Parse(textBoxmiktardeger.Text);
             float kdvorani = (float.Parse(comboBoxkdv.Text) * secilentutar / 100);
             float iskontoorani = (float.Parse(comboBoxiskonto.Text) * secilentutar / 100);
@@ -92,7 +94,7 @@ namespace AlisverisProjesi
             labelgunlukcirodegeri.Text = labeltoplamtutardegeri.Text;
 
         }
-
+        //test
         private void buttonyenikayıt_Click(object sender, EventArgs e)
         {
             listBox1.Items.Clear();
